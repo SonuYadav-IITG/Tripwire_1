@@ -1,4 +1,4 @@
-# Friction log (DRAFT: edit so every entry reflects what you actually experienced)
+# Friction log 
 
 Participants who submit friction logs can earn up to a 10% scoring bonus, and **only real entries help**.
 Entries 1-3 come from building this project; add your own from the live Alexa+/AWS deploy.
@@ -33,4 +33,3 @@ Entries 1-3 come from building this project; add your own from the live Alexa+/A
 - **Workaround:** one household per deployment, plus an optional bearer token.
 - **Suggestion:** a "prototype mode" section with the minimum auth/identity needed to demo end to end.
 
-### 5+. ✏️ Your live-deploy findings (Bedrock model access/region, `alexa-ai` CLI, HTTPS hosting…)
